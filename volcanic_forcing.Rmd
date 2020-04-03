@@ -2,10 +2,12 @@
 title: "The HiDA Paleo Climate Challenge"
 author: "Moritz Johannes Kirschner, Team EOF Brudi"
 date: "4/2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
-#äOutline
+#Outline
 
 Thank you for the opportunity to participate in this challenge. I've tried to answer the following questions using the data supplied:
 
